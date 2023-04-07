@@ -1,31 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.b33467f5.css",
-    "main.js": "/static/js/main.b136e8fe.js",
+    "main.css": "/static/css/main.063e630b.css",
+    "main.js": "/static/js/main.2054ac98.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
-    "static/media/devgif.gif": "/static/media/devgif.f084f1177ba29e9ca2c0.gif",
     "static/media/pic.JPG": "/static/media/pic.850a9839ef062b8ee68a.JPG",
-    "static/media/Ajay_Resume.pdf": "/static/media/Ajay_Resume.064e93a62227fa9d651c.pdf",
-    "static/media/mongodb.svg": "/static/media/mongodb.6835c61a518a732eb8318d43dfe8f700.svg",
-    "static/media/nodejs.svg": "/static/media/nodejs.a58a784da3196cc9b6d1887f24f6c8ef.svg",
-    "static/media/redux.svg": "/static/media/redux.85bfc20a8c14d09d3cc5f819bdadec66.svg",
-    "static/media/github.svg": "/static/media/github.c37922f6d126542f876cdbfcc33e2a66.svg",
-    "static/media/react.svg": "/static/media/react.2dd41da56d74897916edbc7353142744.svg",
-    "static/media/python.svg": "/static/media/python.88c1e5ae02864b3ae66a571cc722a3d3.svg",
-    "static/media/typescript.svg": "/static/media/typescript.fc96c1b7ff0869d7c284d4fb2b736828.svg",
-    "static/media/expressjs.svg": "/static/media/expressjs.fd91008a02cb63a8d9e7001ee905ab23.svg",
-    "static/media/javascript.svg": "/static/media/javascript.64d9e0e76154cf546e6a54e6f4bfb9ac.svg",
-    "static/media/bootstrap.svg": "/static/media/bootstrap.19c3fd09c600ab7007343a5d6cc5235a.svg",
+    "static/media/Ajay_Resume.pdf": "/static/media/Ajay_Resume.6c4a75e4e7da684b3e42.pdf",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "static/media/css.svg": "/static/media/css.8fe37b3430423bafeedb1dc7875a165a.svg",
-    "static/media/chakraui.svg": "/static/media/chakraui.cf914ef86bb989cd35f1f4e4235fba6c.svg",
-    "static/media/html.svg": "/static/media/html.f064b3740c16d30101bff45358ea72c1.svg",
-    "main.b33467f5.css.map": "/static/css/main.b33467f5.css.map",
-    "main.b136e8fe.js.map": "/static/js/main.b136e8fe.js.map",
+    "main.063e630b.css.map": "/static/css/main.063e630b.css.map",
+    "main.2054ac98.js.map": "/static/js/main.2054ac98.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b33467f5.css",
-    "static/js/main.b136e8fe.js"
+    "static/css/main.063e630b.css",
+    "static/js/main.2054ac98.js"
   ]
 }
